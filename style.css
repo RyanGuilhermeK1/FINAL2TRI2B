@@ -1,3 +1,7 @@
 h1{
     background: linear-gradient(to right, #e32f2f, #e3c716, #96e789 );
 }
+*{
+    margin: 0;
+    padding: 0
+}
