@@ -182,13 +182,6 @@ body {
       .container__titulo--negrito{
         font-weight: 700;
     }
-    ::marker {
-        unicode-bidi:;
-        font-variant-numeric: ;
-        text-transform: none;
-        text-indent: 0;
-        text-align: start;
-        text-align-last: start ;
-    }
+    
 }
    
