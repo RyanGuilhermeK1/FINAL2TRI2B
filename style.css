@@ -183,12 +183,12 @@ body {
         font-weight: 700;
     }
     ::marker {
-        unicode-bidi: isolate;
-        font-variant-numeric: tabular-nums;
+        unicode-bidi:;
+        font-variant-numeric: ;
         text-transform: none;
-        text-indent: 0px !important;
-        text-align: start !important;
-        text-align-last: start !important;
+        text-indent: 0;
+        text-align: start;
+        text-align-last: start ;
     }
 }
    
