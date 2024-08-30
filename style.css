@@ -124,7 +124,7 @@ width: 150px;
 }
 
 .topicos__link {
-    color: var(--branco);
+    color:#002f52(--branco);
     padding: 1em;
     background-color: var(--laranja);
     font-size: 14px;
