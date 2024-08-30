@@ -126,10 +126,10 @@ width: 150px;
 .topicos__link {
     color: var(--branco);
     padding: 1em;
-    background-color: var(--preto);
+    background-color:#002f52 var(--laranja);
     font-size: 14px;
     font-weight: 700;
-    text-decoration: none;
+    text-decoration: aliceblue;
 }
 
 .topicos__item {
