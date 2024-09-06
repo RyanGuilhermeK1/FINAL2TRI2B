@@ -70,8 +70,7 @@ width: 150px;
 }
 
 .banner {
-    background: var(--azul-degrade);
-    color: var(--branco);
+    background:image url(Audi-logo-history-and-meaning-Cover-03-03.jpg);
     text-align: center;
     padding: 2.5em 2em;
 }
